@@ -49,4 +49,5 @@ The main objective of this project was to develop an interactive Power BI dashbo
 **Project Type:** Data Analytics | Business Intelligence  
 **Tool:** Microsoft Power BI
 
-How Dashboard look like :-  https://github.com/AnalystGauravSwami/Mobile-Sales-Analysis-PowerBI/blob/main/PowerBI_Sales_Dashboard.pbix.png
+How my mobile sales<img width="1062" height="592" alt="PowerBI_Sales_Dashboard pbix" src="https://github.com/user-attachments/assets/e9f87868-e27f-47b5-a7d9-e38c120df4a8" />
+ Dashboard look like :-  https://github.com/AnalystGauravSwami/Mobile-Sales-Analysis-PowerBI/blob/main/PowerBI_Sales_Dashboard.pbix.png
